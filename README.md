@@ -1,8 +1,5 @@
-# <div style="display:flex; justify-content: space-between; align-items: center; background: linear-gradient(to right, #67A1FE, #BD34FE); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
-<p>Hola soy Jack Yactayo H.</p>
-<img src="./img/jack-logo.png" style="width:5.6rem; height:1.5rem">
-</div>
 
+# Hola soy Jack Yactayo H. 👋
 <div style="display: flex; align-items: center; justify-content: space-around; width:100%; gap:5px;">
 <img src="./img/logo-jack-gif.gif" style="width: 50%; border-radius: 10px" alt="Logo Jack">
 <p style="width:50%; max-width:20rem;">Soy estudiante de Ingeniería de Sistemas con pasión por la programación y desarrollo web. Actualmente, estoy trabajando en proyectos con React y Node.js, creando aplicaciones funcionales y modernas.</p>
