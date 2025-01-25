@@ -1,17 +1,7 @@
-<style>
-  .h1{
-     background: linear-gradient(to right, #67A1FE, #BD34FE);
+<h1 class="h1" style="display:flex; justify-content: space-between;  align-items: center;background: linear-gradient(to right, #67A1FE, #BD34FE);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
-      font-weight: bold;
-  }
-  .c{
-    width:50%;
-    max-width:20rem;
-  }
-</style>
-
-<h1 class="h1" style="display:flex; justify-content: space-between;  align-items: center">
+      font-weight: bold;">
     <p>Hola soy Jack Yactayo H.<p>
     <img src="./img/jack-logo.png" style="width:5.6rem; height:1.5rem">
 </h1>
@@ -22,7 +12,8 @@
       width:100%; 
       gap:5px;">
     <img src="./img/logo-jack-gif.gif" style="width: 50%; border-radius: 10px" alt="">
-    <p class="c">Soy estudiante de Ingeniería de Sistemas con pasión por la programación y desarrollo web. Actualmente, estoy trabajando en proyectos con React y Node.js, creando aplicaciones funcionales y modernas.</p>
+    <p style="width:50%;
+    max-width:20rem;">Soy estudiante de Ingeniería de Sistemas con pasión por la programación y desarrollo web. Actualmente, estoy trabajando en proyectos con React y Node.js, creando aplicaciones funcionales y modernas.</p>
 </div>
 <div style="margin-top:1.5rem;display:flex; justify-content:center; gap:8px">
     <img src="./img/icon/HTML5_logo_and_wordmark.svg.png" >
