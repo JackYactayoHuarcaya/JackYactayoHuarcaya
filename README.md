@@ -4,7 +4,7 @@
 <img src="./img/logo-jack-gif.gif" style="width: 50%; border-radius: 10px" alt="Logo Jack">
 <p style="width:50%; max-width:20rem;">Soy estudiante de Ingeniería de Sistemas con pasión por la programación y desarrollo web. Actualmente, estoy trabajando en proyectos con React y Node.js, creando aplicaciones funcionales y modernas.</p>
 </div>
-
+Tiktok: 📽️https://www.tiktok.com/@jackfullstack   
 <div style="margin-top:1.5rem; display:flex; justify-content:center; gap:8px;">
 <img src="./img/icon/HTML5_logo_and_wordmark.svg.png" alt="HTML5">
 <img src="./img/icon/Official_CSS_Logo.svg.png" alt="CSS3">
