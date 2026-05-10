@@ -1,19 +1,95 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is jack yactayo huarcaya
 
-Soy Bachiller en Ingeniería de Sistemas con pasión por la programación y desarrollo web. Actualmente, estoy trabajando en proyectos con React y Node.js, creando aplicaciones funcionales y modernas.
+<style>
+  .section-label { font-size: 11px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-text-tertiary); margin-bottom: 8px; }
+  .skill-badge { display: inline-flex; align-items: center; gap: 5px; background: var(--color-background-secondary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); padding: 4px 10px; font-size: 13px; color: var(--color-text-primary); }
+  .wrap-group { display: flex; flex-wrap: wrap; gap: 6px; }
+  .card { background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); padding: 1rem 1.25rem; }
+  .divider { height: 0.5px; background: var(--color-border-tertiary); margin: 1rem 0; }
+  tr td { padding: 6px 0; font-size: 14px; vertical-align: top; }
+  td.label { color: var(--color-text-secondary); white-space: nowrap; padding-right: 16px; width: 120px; }
+</style>
 
-- 🌍 I'm based in Peru
-- ✉️ You can contact me at [jack-0204@hotmail.com](mailto:jack-0204@hotmail.com)
+<div style="padding: 1rem 0; display: flex; flex-direction: column; gap: 12px;">
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" alt="Astro" title="Astro" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-</p>
+  <div class="card">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 14px;">
+      <div style="width: 52px; height: 52px; border-radius: 50%; background: var(--color-background-info); display: flex; align-items: center; justify-content: center; font-weight: 500; font-size: 17px; color: var(--color-text-info);">JY</div>
+      <div>
+        <p style="font-size: 17px; font-weight: 500; margin: 0; color: var(--color-text-primary);">Jack Yactayo Huarcaya</p>
+        <p style="font-size: 13px; color: var(--color-text-secondary); margin: 4px 0 0;">Bachiller en Ingeniería de Sistemas</p>
+      </div>
+    </div>
+    <div class="divider"></div>
+    <table style="width: 100%;">
+      <tr>
+        <td class="label"><i class="ti ti-map-pin" aria-hidden="true" style="font-size:15px; vertical-align:-2px; margin-right:5px;"></i>Ubicación</td>
+        <td>Peru</td>
+      </tr>
+      <tr>
+        <td class="label"><i class="ti ti-mail" aria-hidden="true" style="font-size:15px; vertical-align:-2px; margin-right:5px;"></i>Contacto</td>
+        <td><a href="mailto:jack-0204@hotmail.com" style="color: var(--color-text-info);">jack-0204@hotmail.com</a></td>
+      </tr>
+      <tr>
+        <td class="label"><i class="ti ti-brand-github" aria-hidden="true" style="font-size:15px; vertical-align:-2px; margin-right:5px;"></i>GitHub</td>
+        <td><a href="https://github.com/JackYactayoHuarcaya" style="color: var(--color-text-info);">JackYactayoHuarcaya</a></td>
+      </tr>
+    </table>
+  </div>
 
-### Socials
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px;">
 
-<p align="left"> <a href="https://www.github.com/JackYactayoHuarcaya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+    <div class="card">
+      <div class="section-label">Frontend</div>
+      <div class="wrap-group">
+        <span class="skill-badge">HTML5</span>
+        <span class="skill-badge">CSS3</span>
+        <span class="skill-badge">JavaScript</span>
+        <span class="skill-badge">TypeScript</span>
+        <span class="skill-badge">React</span>
+        <span class="skill-badge">Next.js</span>
+        <span class="skill-badge">Astro</span>
+        <span class="skill-badge">TailwindCSS</span>
+        <span class="skill-badge">Vite</span>
+      </div>
+    </div>
 
-<b>My GitHub Stats</b>
+    <div class="card">
+      <div class="section-label">Backend</div>
+      <div class="wrap-group">
+        <span class="skill-badge">Node.js</span>
+        <span class="skill-badge">Express</span>
+        <span class="skill-badge">NestJS</span>
+        <span class="skill-badge">Java</span>
+        <span class="skill-badge">Spring Boot</span>
+      </div>
+    </div>
 
-<a href="http://www.github.com/JackYactayoHuarcaya"><img src="https://github-readme-stats.vercel.app/api?username=JackYactayoHuarcaya&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JackYactayoHuarcaya's GitHub stats" /></a>
+    <div class="card">
+      <div class="section-label">Bases de datos</div>
+      <div class="wrap-group">
+        <span class="skill-badge">MongoDB</span>
+        <span class="skill-badge">MySQL</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="section-label">DevOps & Cloud</div>
+      <div class="wrap-group">
+        <span class="skill-badge">Docker</span>
+        <span class="skill-badge">Kubernetes</span>
+        <span class="skill-badge">Azure</span>
+        <span class="skill-badge">Git</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="section-label">Herramientas</div>
+      <div class="wrap-group">
+        <span class="skill-badge">Figma</span>
+        <span class="skill-badge">VS Code</span>
+      </div>
+    </div>
+
+  </div>
+
+</div>
